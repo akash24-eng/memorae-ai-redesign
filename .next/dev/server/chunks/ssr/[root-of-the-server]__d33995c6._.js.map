@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/hi/memorae-redesign/src/app/page.tsx"],"sourcesContent":["import Navigation from '../components/Navigation.tsx'\nimport Hero from '../components/Hero.tsx'\nimport Features from '../components/Features.tsx'\nimport HowItWorks from '../components/HowItWorks.tsx'\nimport Testimonials from '../components/Testimonials.tsx'\nimport Pricing from '../components/Pricing.tsx'\nimport CTA from '../components/CTA.tsx'\nimport Footer from '../components/Footer.tsx'\n\nexport default function Home() {\n  return (\n    <main className=\"min-h-screen\">\n      <Navigation />\n      <Hero />\n      <Features />\n      <HowItWorks />\n      <Testimonials />\n      <Pricing />\n      <CTA />\n      <Footer />\n    </main>\n  )\n}"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AASe,SAAS;IACtB,qBACE,qQAAC;QAAK,WAAU;;0BACd,qQAAC;;;;;0BACD,qQAAC;;;;;0BACD,qQAAC;;;;;0BACD,qQAAC;;;;;0BACD,qQAAC;;;;;0BACD,qQAAC;;;;;0BACD,qQAAC;;;;;0BACD,qQAAC;;;;;;;;;;;AAGP"}}]
+}
