@@ -3,7 +3,7 @@
 A modern redesign of Memorae.ai website built for the 24-Hour Frontend Hackathon Challenge.
 
 ## 🚀 Live Demo
-👉 **[Live Demo](https://your-project.vercel.app)** 👈
+👉 **[Live Demo](https://memorae-ai-redesign.vercel.app/)** 👈
 
 ## 📸 Preview
 ![Memorae AI Redesign](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Memorae+AI+Redesign)
